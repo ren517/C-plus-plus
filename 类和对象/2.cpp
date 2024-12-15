@@ -1,12 +1,13 @@
 #include <iostream>
 using namespace std;
+// 构造函数和析构函数
 
 class Person
 {
 public:
     Person()
     {
-        cout << "Person 构造函数调用" <<endl;
+        cout << "Person 构造函数调用" << endl;
     }
     ~Person()
     {
