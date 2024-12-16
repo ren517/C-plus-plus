@@ -32,7 +32,7 @@ public:
 
 void test1()
 {
-    // 1.括号法
+    // 1.括号法 常用
     Person p1; // 默认构造函数调用
     Person p2(10);
     Person p3(p2);
