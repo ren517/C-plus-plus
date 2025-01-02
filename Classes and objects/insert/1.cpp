@@ -1,3 +1,4 @@
+// 继承好处:减少重复代码
 #include <iostream>
 using namespace std;
 class BasePage
